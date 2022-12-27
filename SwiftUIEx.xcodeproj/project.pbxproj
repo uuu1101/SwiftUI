@@ -11,7 +11,6 @@
 		82AC304A295084EC00750442 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82AC3049295084EC00750442 /* ContentView.swift */; };
 		82AC304C295084EE00750442 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82AC304B295084EE00750442 /* Assets.xcassets */; };
 		82AC304F295084EE00750442 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82AC304E295084EE00750442 /* Preview Assets.xcassets */; };
-		82AC305629517F0600750442 /* HelloButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82AC305529517F0600750442 /* HelloButton.swift */; };
 		82AC30582958BA5900750442 /* CounterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82AC30572958BA5900750442 /* CounterView.swift */; };
 		82AC305A2958C1FC00750442 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82AC30592958C1FC00750442 /* DetailView.swift */; };
 		82AC305C2958C21D00750442 /* Counter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82AC305B2958C21D00750442 /* Counter.swift */; };
@@ -28,7 +27,6 @@
 		82AC3049295084EC00750442 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		82AC304B295084EE00750442 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		82AC304E295084EE00750442 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		82AC305529517F0600750442 /* HelloButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloButton.swift; sourceTree = "<group>"; };
 		82AC30572958BA5900750442 /* CounterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterView.swift; sourceTree = "<group>"; };
 		82AC30592958C1FC00750442 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		82AC305B2958C21D00750442 /* Counter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Counter.swift; sourceTree = "<group>"; };
@@ -72,9 +70,8 @@
 				82AC3047295084EC00750442 /* SwiftUIExApp.swift */,
 				82AC3049295084EC00750442 /* ContentView.swift */,
 				82AC30B5295B304500750442 /* ChangeColor */,
-				82AC30B4295B302200750442 /* EnvironmentObject */,
 				82AC30B6295B30AE00750442 /* Counter+PropertyWrapper */,
-				82AC305529517F0600750442 /* HelloButton.swift */,
+				82AC30B4295B302200750442 /* EnvironmentObject */,
 				82AC304B295084EE00750442 /* Assets.xcassets */,
 				82AC304D295084EE00750442 /* Preview Content */,
 			);
@@ -194,7 +191,6 @@
 				82AC304A295084EC00750442 /* ContentView.swift in Sources */,
 				82AC3048295084EC00750442 /* SwiftUIExApp.swift in Sources */,
 				82AC305C2958C21D00750442 /* Counter.swift in Sources */,
-				82AC305629517F0600750442 /* HelloButton.swift in Sources */,
 				82AC305A2958C1FC00750442 /* DetailView.swift in Sources */,
 				82AC30B3295B2FC800750442 /* Model.swift in Sources */,
 				82AC30B1295B2FC800750442 /* ToggleView.swift in Sources */,
